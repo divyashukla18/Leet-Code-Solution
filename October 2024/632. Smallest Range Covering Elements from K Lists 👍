@@ -1,3 +1,4 @@
+// JAVA CODE
 class Solution {
   public int[] smallestRange(List<List<Integer>> nums) {
     record T(int i, int j, int num) {} // num := nums[i][j]
